@@ -7,3 +7,4 @@
 [Intro](https://github.com/minchjung/SystemDesign/wiki/Intro)  
 [Cache & Load Balancer](https://github.com/minchjung/SystemDesign/wiki/Cache-&-Load-Balancer)  
 # Flux Architecture
+[Redux](https://github.com/minchjung/SystemDesign/wiki/Redux)  
