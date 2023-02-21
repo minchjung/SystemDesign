@@ -5,5 +5,3 @@
 [4.Scalability]()  
 [5.Modeling](https://github.com/minchjung/SystemDesign/wiki/Intro)  
 [6.Cache & Load Balancer](https://github.com/minchjung/SystemDesign/wiki/Cache-&-Load-Balancer)  
-# Flux Architecture
-~~[Redux](https://github.com/minchjung/SystemDesign/wiki/Redux)~~  
